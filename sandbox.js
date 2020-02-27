@@ -1,0 +1,1 @@
+alert("This is the story of Itachi of the Sharingan");
